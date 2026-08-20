@@ -21,5 +21,7 @@ Roots are complex
 #include <stdio.h>
 int main ()
 {
-    printf("Enter ");
+    printf("Enter coefficients a ,b and c \n");
+    double a,b,c;
+    scanf("%lf""%lf""%lf" , &a,&b,&c);
 }
