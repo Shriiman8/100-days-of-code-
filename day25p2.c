@@ -22,3 +22,8 @@ Output 2:
 Note: Spaces indicate indentation.
 
 */
+
+#include <stdio.h>
+int main ()
+{
+}
